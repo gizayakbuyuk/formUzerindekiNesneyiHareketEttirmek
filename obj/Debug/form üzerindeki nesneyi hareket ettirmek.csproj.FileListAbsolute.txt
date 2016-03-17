@@ -1,0 +1,9 @@
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\bin\Debug\form üzerindeki nesneyi hareket ettirmek.exe.config
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\bin\Debug\form üzerindeki nesneyi hareket ettirmek.exe
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\bin\Debug\form üzerindeki nesneyi hareket ettirmek.pdb
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\obj\Debug\form üzerindeki nesneyi hareket ettirmek.csprojResolveAssemblyReference.cache
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\obj\Debug\form_üzerindeki_nesneyi_hareket_ettirmek.Form1.resources
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\obj\Debug\form_üzerindeki_nesneyi_hareket_ettirmek.Properties.Resources.resources
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\obj\Debug\form üzerindeki nesneyi hareket ettirmek.csproj.GenerateResource.Cache
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\obj\Debug\form üzerindeki nesneyi hareket ettirmek.exe
+D:\Görsel Programlama\15.Ders (08.03.2016)\form üzerindeki nesneyi hareket ettirmek\form üzerindeki nesneyi hareket ettirmek\obj\Debug\form üzerindeki nesneyi hareket ettirmek.pdb
